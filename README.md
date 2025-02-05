@@ -27,9 +27,9 @@ Website desenvolvido para a empresa Alvadorn, proporcionando uma experiência in
 
 ## 👨‍💻 Onde me encontrar
 
-- [![LinkedIn] https://www.linkedin.com/in/pedro-amstalden-97001a294/
-- [![Instagram] https://www.instagram.com/pedro_amstalden/
-- [![E-mail] amstaldenpedro14@gmail.com
+- Linkedin: https://www.linkedin.com/in/pedro-amstalden-97001a294/
+- Instagram: https://www.instagram.com/pedro_amstalden/
+- Email: amstaldenpedro14@gmail.com
 
 ---
 
